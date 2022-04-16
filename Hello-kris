@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Hello Kitty</title>
+</head>
+
+<body>
+
+  <h1>Hello Kitty!</h1>
+    <br>
+  <img src="https://giffiles.alphacoders.com/532/53231.gif" alt="hello-kitty-gif" />
+
+</body>
+
+</html>
